@@ -1,0 +1,8 @@
+__pycache__
+.DS_Store
+.venv/
+.vscode/
+.chroma/
+.ipynb_checkpoints/
+playground.py
+devnotes.md
